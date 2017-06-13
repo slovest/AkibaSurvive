@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "AkibaSurvive.data.unityweb",
+"asmCodeUrl": "AkibaSurvive.asm.code.unityweb",
+"asmMemoryUrl": "AkibaSurvive.asm.memory.unityweb",
+"asmFrameworkUrl": "AkibaSurvive.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
